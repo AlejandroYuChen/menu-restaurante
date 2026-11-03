@@ -96,7 +96,7 @@ const menus = {
 // IDENTIFICAR EL DÍA ACTUAL
 // ==========================================
 
-const ahora = new Date();
+//const ahora = new Date();
 
 //const diaActual = ahora.getDay();
 const diaActual = 1;

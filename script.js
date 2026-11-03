@@ -98,7 +98,8 @@ const menus = {
 
 const ahora = new Date();
 
-const diaActual = ahora.getDay();
+//const diaActual = ahora.getDay();
+const diaActual = 1;
 
 const menuHoy = menus[diaActual];
 
